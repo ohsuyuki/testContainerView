@@ -6,4 +6,4 @@ How to move View in ContainerView
 3. Put a 2nd ViewController in the ContainerView
 4. Connect the 1st ViewController and 2nd ViewController by Segue
 5. Edit 1st ViewController's property, check *Define context*.
-6. Edit the Segue's properties, select *Present Modally* at Kind, select *Current Context* at Presentation.
+6. Edit the Segue's properties, select *Present Modally* at *Kind*, select *Current Context* at *Presentation*.
