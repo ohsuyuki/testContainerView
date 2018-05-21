@@ -1,7 +1,7 @@
 # testContainerView
 
-How to move View in ContainerView
-1. Put ContainerView
+How to move views in the ContainerView
+1. Put a ContainerView
 2. Edit a 1st ViewController in the ContainerView
 3. Put a 2nd ViewController in the ContainerView
 4. Connect the 1st ViewController and 2nd ViewController by Segue
