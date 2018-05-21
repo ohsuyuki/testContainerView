@@ -21,12 +21,6 @@ class ViewController: UIViewController {
     }
 }
 
-class ViewControllerBlue: UIViewController {
-}
-
-class ViewControllerYellow: UIViewController {
-}
-
 class ViewControllerStart: UIViewController {
     @IBAction func unwindViewControllerStart(unwindSegue: UIStoryboardSegue) {
         print(#function)

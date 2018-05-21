@@ -40,10 +40,10 @@
             </objects>
             <point key="canvasLocation" x="55" y="34"/>
         </scene>
-        <!--View Controller Blue-->
+        <!--View Controller-->
         <scene sceneID="yW6-jX-vZD">
             <objects>
-                <viewController definesPresentationContext="YES" id="PAe-Ne-vlN" customClass="ViewControllerBlue" customModule="testContainerView" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController definesPresentationContext="YES" id="PAe-Ne-vlN" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="hQp-We-XNt">
                         <rect key="frame" x="0.0" y="0.0" width="300" height="400"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -54,7 +54,7 @@
                                     <color key="titleColor" red="1" green="0.94901960780000005" blue="0.30588235289999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
-                                    <segue destination="fyR-dZ-QAL" kind="presentation" modalPresentationStyle="currentContext" id="Eyy-hK-L51"/>
+                                    <segue destination="fyR-dZ-QAL" kind="presentation" animates="NO" modalPresentationStyle="currentContext" id="Eyy-hK-L51"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -97,10 +97,10 @@
             </objects>
             <point key="canvasLocation" x="-778" y="34"/>
         </scene>
-        <!--View Controller Yellow-->
+        <!--View Controller-->
         <scene sceneID="wBs-8p-Kh9">
             <objects>
-                <viewController id="fyR-dZ-QAL" customClass="ViewControllerYellow" customModule="testContainerView" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="fyR-dZ-QAL" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Stp-9L-aTT">
                         <rect key="frame" x="0.0" y="0.0" width="300" height="400"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
